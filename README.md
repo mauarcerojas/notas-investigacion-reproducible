@@ -10,3 +10,4 @@ _replicability_, en inglés), el cual se refiere a la posibilidad de obtener res
 estudio con un conjunto distinto de datos, pero siguiendo el mismo diseño experimental. Estos conceptos son elementos  
 centrales de la investigación empírica.
 
+## Importancia de la reproductibilidad
