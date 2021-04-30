@@ -1,3 +1,2 @@
-# Notas sobre investigación reproducible y análisis de 
+# Notas sobre investigación reproducible y análisis de  
 datos
-
