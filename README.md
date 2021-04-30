@@ -19,5 +19,5 @@ principios de la década de 1990, un geofísico estadounidense llamado John Clae
 > propios resultados. Por esta razón, muchas personas ignoran la mayor parte de la literatura científica." (Claerbout, 1992)
 
 Con el fin de resolver esta problemática, diferentes organizaciones, como el Comité Internacional de Publicaciones de  
-Medicina o la Administración de Alimentos y Medicamentos de Estados Unidos [(FDA)](https://www.fda.gov/files/styles/featured_content_background_image/public/2020-12-10-covid-hero-graphicv2.jpg?itok=mRkk88ty)
+Medicina o la Administración de Alimentos y Medicamentos de Estados Unidos [(FDA)](https://www.fda.gov/)
 
