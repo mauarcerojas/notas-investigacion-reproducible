@@ -26,4 +26,5 @@ Así, por ejemplo, como se muestra en la figura 1, Mark Ziemann encontró en 201
 archivos de datos suplementarios publicados en revistas científicas contenían errores en los nombres de los genes,  
 debido a los parámetros de configuración de Microsoft Excel (Ziemann et al., 2016).
 
+![](https://gf0604-procesamientodatosgeograficos.github.io/2021i-tarea-01/img/ZiemannEtAlFig1.png)
 
