@@ -37,7 +37,7 @@ Science Training Handbook. Zenodo. https://doi.org/10.5281/ZENODO.1212496
 
 Claerbout, J. F. (1992). Earth Soundings Analysis: Processing Versus Inversion. Blackwell Science Inc.
 
-[(FDA)](https://www.fda.gov/)
+U.S Food and Drug Administration, [(FDA)](https://www.fda.gov/)
 
 Ziemann, M., Eren, Y., & El-Osta, A. (2016). Gene name errors are widespread in the scientific literature. Genome Biology,  
 17(1), 177. https://doi.org/10.1186/s13059-016-1044-7
